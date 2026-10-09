@@ -97,10 +97,16 @@ Farmer
   handling, and security testing.
 
  ### 📸 Screenshots
+ 
+
 <img width="1917" height="1078" alt="Screenshot 2026-10-09 213624" src="https://github.com/user-attachments/assets/c6ea41fb-560e-4c0f-9827-5de672d00d78" />
+
 <img width="1917" height="1076" alt="Screenshot 2026-10-09 213807" src="https://github.com/user-attachments/assets/2fc1d0fe-562b-4642-afe1-c7d87f4fe313" />
+
 <img width="665" height="676" alt="Screenshot 2026-10-09 213839" src="https://github.com/user-attachments/assets/a7fe0ad8-e7de-4781-9d83-3138e7d4afad" />
+
 <img width="1917" height="1076" alt="Screenshot 2026-10-09 214010" src="https://github.com/user-attachments/assets/8a56d3cf-77f0-4df1-9736-49186ce148d2" />
+
 <img width="1220" height="797" alt="Screenshot 2026-10-09 214025" src="https://github.com/user-attachments/assets/fa32e48d-7281-49f5-ba24-be27348fa368" />
 
  ### 📌 Project Status

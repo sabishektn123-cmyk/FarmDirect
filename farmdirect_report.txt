@@ -1,0 +1,6 @@
+FarmDirect Transaction Report
+============================
+Farmer: Ravi
+Product 1: Tomato - ₹32.50/kg
+Product 2: Potato - ₹28.00/kg
+Product 3: Onion - ₹35.00/kg

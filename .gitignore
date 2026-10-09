@@ -1,0 +1,39 @@
+
+# Java compiled output
+*.class
+bin/
+target/
+out/
+
+# SQLite database files - do not publish local data
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+
+# Secrets and environment settings
+.env
+.env.*
+!.env.example
+secrets.properties
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Eclipse local workspace settings
+.metadata/
+.settings/
+.recommenders/
+.RemoteSystemsTempFiles/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE backups
+*~
